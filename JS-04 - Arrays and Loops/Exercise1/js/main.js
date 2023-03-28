@@ -14,8 +14,9 @@ console.log(bank);
 
 console.log("**********PART3**********");
 console.log(bank.shift());
-bank.unshift("Renata")
-bank.push("Elena")
+bank.unshift("Renata");
+bank.unshift("David");
+bank.push("Elena");
 console.log(bank.length);
 console.log(bank);
 //Part 3 of exercise
